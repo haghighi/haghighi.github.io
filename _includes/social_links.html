@@ -1,0 +1,10 @@
+<p class="links">
+  {% if site.linkedin_link %}<a href="{{ site.linkedin_link }}" target="_new"><i class="fab fa-linkedin-in"></i></a>{% endif %}
+  {% if site.fedora_username %}<a href="https://fedoraproject.org/wiki/User:{{ site.fedora_username }}" target="_new"><i class="fab fa-fedora"></i></a>{% endif %}  
+  {% if site.twitter_username %}<a href="http://www.twitter.com/{{ site.twitter_username }}" target="_new"><i class="fab fa-twitter"></i></a>{% endif %}
+  {% if site.github_username %}<a href="https://github.com/{{ site.github_username }}" target="_new"><i class="fab fa-github"></i></a>{% endif %}
+  {% if site.gitlab_username %}<a href="https://gitlab.com/{{ site.gitlab_username }}" target="_new"><i class="fab fa-gitlab"></i></a>{% endif %}
+  {% if site.telegram_username %}<a href="https://t.me/{{ site.telegram_username }}" target="_new"><i class="fab fa-telegram-plane"></i></a>{% endif %}
+  {% if site.stackoverflow_link %}<a href="{{ site.stackoverflow_link }}" target="_new"><i class="fab fa-stack-overflow"></i></a>{% endif %}
+  <a href="{{ site.baseurl }}/feed.xml" target="_new"><i class="fas fa-rss"></i></a>
+</p>

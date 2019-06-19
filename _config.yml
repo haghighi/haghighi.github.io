@@ -1,0 +1,38 @@
+# Site settings
+title: "Ahmad Haghighi"
+subtitle: "احمد حقیقی"
+email: haghighi.ahmad@gmail.com
+description: "Ahmad Haghighi’s personal page."
+baseurl: ""
+url: "https://haghighi.site"
+title_description: "Ahmad Haghighi’s personal page."
+bio: "| Free Software advocate | Fedora Ambassador | GNU/Linux sysadmin | Programmer |"
+title_image: "assets/images/mypic.jpg"
+google_analytics: "UA-142398935-1"
+disqus_account: haghighi
+github_repository: https://github.com/haghighi-ahmad
+#addthis_id: ra-513c6fa83da6ec67
+post_limit: 5
+
+# Social usernames/URLs
+twitter_username: haghighi_ahmad
+telegram_username: haghighi_ahmad
+github_username:  haghighi-ahmad
+gitlab_username:  haghighi-ahmad
+fedora_username:  Haghighi
+linkedin_link: https://www.linkedin.com/in/ahmadhaghighi
+#stackoverflow_link: https://www.stackoverflow.com/users/2174408/mrrolling
+
+# Footer
+footer_left: "Made with <i class=\"fas fa-coffee\"></i> in Naboo."
+# footer_right: "&lt;/&gt; on <a href=\"https://github.com/haghighi-ahmad\">Github</a> &nbsp;<i class=\"fab fa-github\"></i>"
+footer_right: '<a href="https://creativecommons.org/licenses/by/4.0/" title="Creative Commons Attribution 4.0 International license">Tutorials are licensed under <i class="fab fa-creative-commons"></i><i class="fab fa-creative-commons-by"></i></a>'
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+permalink: pretty
+exclude: [vendor]
