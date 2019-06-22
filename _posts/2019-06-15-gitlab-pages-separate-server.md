@@ -246,11 +246,11 @@ After completing all previous steps and reloading the Nginx service, the GitLab 
 
 | Type of GitLab Pages | The name of the project created in GitLab | Website URL |
 | -------------------- | ------------ | ----------- |
-| User pages  | `username.example.com`  | `http(s)://username.example.com`  |
-| Group pages | `groupname.example.com` | `http(s)://groupname.example.com` |
-| Project pages owned by a user  | `projectname` | `http(s)://username.example.com/projectname` |
-| Project pages owned by a group | `projectname` | `http(s)://groupname.example.com/projectname`|
-| Project pages owned by a subgroup | `subgroup/projectname` | `http(s)://groupname.example.com/subgroup/projectname`|
+| User pages  | username.example.com  | http(s)://username.example.com  |
+| Group pages | groupname.example.com | http(s)://groupname.example.com |
+| Project pages owned by a user  | projectname | http(s)://username.example.com/projectname |
+| Project pages owned by a group | projectname | http(s)://groupname.example.com/projectname |
+| Project pages owned by a subgroup | subgroup/projectname | http(s)://groupname.example.com/subgroup/projectname |
 
 > You should strongly consider running GitLab pages under a different hostname than GitLab to prevent XSS attacks.  
 
