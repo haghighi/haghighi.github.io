@@ -5,7 +5,7 @@ layout: default
 <div class="container-fluid single">
   <div class="row">
 
-    <div itemscope itemtype="http://schema.org/Article" class="col-md-12 article">
+    <div itemscope itemtype="https://schema.org/Article" class="col-md-12 article">
       {% if site.data.thumbnail[page.thumbnail] %}
       <div class="thumb">
         <img itemprop="image" src="{{ site.data.thumbnail[page.thumbnail] }}" alt="Thumbnail: {{ page.thumbnail }}" />
@@ -30,7 +30,7 @@ layout: default
             {% if site.google_plus_link %}
               <a rel="author" href="{{ site.google_plus_link }}">
             {% endif %}
-            <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <span itemprop="author" itemscope itemtype="https://schema.org/Person">
               <span itemprop="name">{{ page.author }}</span>
             </span>
             {% if site.google_plus_link %}
