@@ -26,7 +26,8 @@ linkedin_link: https://www.linkedin.com/in/ahmadhaghighi
 # Footer
 footer_left: "Made with <i class=\"fas fa-coffee\"></i> in Naboo."
 # footer_right: "&lt;/&gt; on <a href=\"https://github.com/haghighi-ahmad\">Github</a> &nbsp;<i class=\"fab fa-github\"></i>"
-footer_right: '<a href="https://creativecommons.org/licenses/by/4.0/" title="Creative Commons Attribution 4.0 International license">Tutorials are licensed under <i class="fab fa-creative-commons"></i><i class="fab fa-creative-commons-by"></i></a>'
+footer_right: 'Copyright © 2019 Ahmad Haghighi.'
+footer_center: '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> Posts and Articles are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0 International License</a>.'
 # Build settings
 markdown: kramdown
 
