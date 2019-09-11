@@ -7,7 +7,7 @@ author: Ahmad Haghighi
 ---
 <table id="jslicense-labels1">
     <tr>
-        <td><a href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.7/highlight.min.js">highlight.js</a></td>
+        <td><a href="/js/cdnjs-ajax-highlight-8.7.min.js">cdnjs-ajax-highlight-8.7.min.js</a></td>
         <td><a href="https://raw.githubusercontent.com/cdnjs/cdnjs/master/LICENSE">Expat</a></td>
     </tr>
     <tr>
@@ -15,11 +15,15 @@ author: Ahmad Haghighi
         <td><a href="http://en.wikipedia.org/wiki/MIT_License">Expat</a></td>
     </tr>
     <tr>
-        <td><a href="https://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js">bootstrap.min.js</a></td>
+        <td><a href="/js/bootstrap-3.1.1.min.js">bootstrap-3.1.1.min.js</a></td>
         <td><a href="https://github.com/twbs/bootstrap/blob/master/LICENSE">Expat</a></td>
     </tr>
     <tr>
         <td><a href="/js/jekyll-search.js">jekyll-search.js</a></td>
         <td><a href="http://en.wikipedia.org/wiki/MIT_License">Expat</a></td>
+    </tr>
+    <tr>
+        <td><a href="/js/jquery-1.11.0.min.js">jquery-1.11.0.min.js</a></td>
+        <td><a href="https://tldrlegal.com/license/mit-license">Expat</a></td>
     </tr>
 </table>
