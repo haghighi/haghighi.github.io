@@ -18,4 +18,8 @@ author: Ahmad Haghighi
         <td><a href="https://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js">bootstrap.min.js</a></td>
         <td><a href="https://github.com/twbs/bootstrap/blob/master/LICENSE">Expat</a></td>
     </tr>
+    <tr>
+        <td><a href="/js/jekyll-search.js">jekyll-search.js</a></td>
+        <td><a href="http://en.wikipedia.org/wiki/MIT_License">Expat</a></td>
+    </tr>
 </table>
