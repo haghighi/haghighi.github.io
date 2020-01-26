@@ -122,7 +122,7 @@ tags:
 نمونه کار‌های زیادی با بلندر ساخته شده که با جستجو در وب می‌تونید اون‌ها رو به راحتی پیدا کنید، برای نمونه [انیمیشن بهار](https://video.blender.org/videos/watch/3d95fb3d-c866-42c8-9db1-fe82f48ccb95):
 
 
-<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://video.blender.org/videos/embed/3d95fb3d-c866-42c8-9db1-fe82f48ccb95" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" sandbox="allow-same-origin allow-scripts" src="https://video.blender.org/videos/embed/3d95fb3d-c866-42c8-9db1-fe82f48ccb95" frameborder="0" allowfullscreen></iframe>
 
 
 چند نمونه تصویر از کار‌های ساخته شده با بلندر (مرجع: [blenderguru.com](https://www.blenderguru.com/articles/top-10-blender-artworks-january-2018))   
