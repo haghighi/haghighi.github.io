@@ -1,9 +1,9 @@
 ---
-title:  "Fix bidirectional (bidi) text problem in Nextcloud (Farsi)"
+title:  "Bidirectional (bidi/RTL) text Nextcloud (Farsi)"
 layout: post
 last_modified_at: 2020-11-19T23:20:12-05:00
 author: Ahmad Haghighi
-summary: "Handle RTL and text aligment in Nextcloud (e.g. Talk, Deck, Calendar) "
+summary: "Fix bidi/RTL and text aligment problem in Nextcloud (e.g. Talk, Deck, Calendar) "
 local_thumbnail: nextcloud
 categories: tutorial
 tags:
