@@ -1,5 +1,5 @@
 ---
-title:  "Bidirectional (bidi/RTL) text Nextcloud (Farsi)"
+title:  "RTL (bidi) in Nextcloud (Farsi)"
 layout: post
 last_modified_at: 2020-11-19T23:20:12-05:00
 author: Ahmad Haghighi
