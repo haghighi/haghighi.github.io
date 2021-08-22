@@ -6,7 +6,7 @@ description: "Ahmad Haghighi’s personal page."
 baseurl: ""
 url: "https://ahmadhaghighi.com"
 title_description: "Ahmad Haghighi’s personal page."
-bio: "| Free Software advocate | Fedora Ambassador | GNU/Linux sysadmin | Programmer |"
+bio: "| Free Software advocate | GNU/Linux sysadmin | Programmer |"
 title_image: "assets/images/mypic.jpg"
 # google_analytics: ""
 disqus_account: haghighi
