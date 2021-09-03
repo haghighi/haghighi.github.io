@@ -18,7 +18,8 @@ On 13th Jul 2021, I've been removed from Fedora Project with no prior notice bec
 
 
 ![my-fedora-wiki](/assets/images/my-fedora-wiki.jpg)
-[My Profile on Fedora Project (FP) Wiki](https://fedoraproject.org/wiki/User:Haghighi)
+[My Profile on Fedora Project (FP) Wiki](https://fedoraproject.org/wiki/User:Haghighi)   
+[My wiki page archive on Archive.org](https://web.archive.org/web/20210813014952/https://fedoraproject.org/wiki/User:Haghighi)   
 
 I don't have any access to my Email (haghighi@fedoraproject.org) and my other FP resources (e.g., Fedora Ambassadors, Fedora People space, Git repo, etc.). My account was completely removed from Ask Fedora (I was an admin). All my posts in Ask Fedora (including the Welcome page for the Farsi section) were removed, and...   
 
@@ -68,6 +69,11 @@ Do you think it is a problem for governments to use an external server or extern
 
 
 > Every Free and/or Open Source Software based/located/maintained/served/related to the USA and its companions IS NOT a Free Software, since there's no freedom of use, access, and study, at least for 80 Millions of individuals.
+
+## Update 1 (3 Sep 2021)  
+My Fedora Project Wiki page [User:Haghighi](https://fedoraproject.org/wiki/User:Haghighi) has been deleted on 2 September 2021.   
+[My wiki page archive on Archive.org](https://web.archive.org/web/20210813014952/https://fedoraproject.org/wiki/User:Haghighi)   
+![my-fp-wiki-page-deleted](/assets/images/my-fp-wiki-page-deleted.png)   
 
 
 ## Appendix
