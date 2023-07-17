@@ -10,16 +10,16 @@ bio: "| Free Software advocate | GNU/Linux sysadmin | Programmer |"
 title_image: "assets/images/mypic.jpg"
 # google_analytics: ""
 disqus_account: haghighi
-github_repository: https://github.com/haghighi-ahmad
+github_repository: https://github.com/haghighi
 #addthis_id: ra-513c6fa83da6ec67
 post_limit: 5
 
 # Social usernames/URLs
 twitter_username: haghighi_ahmad
 telegram_username: haghighi_ahmad
-github_username:  haghighi-ahmad
+github_username:  haghighi
 mastodon_username:  haghighi
-gitlab_username:  haghighi-ahmad
+gitlab_username:  haghighi
 fedora_username:  Haghighi
 linkedin_link: https://www.linkedin.com/in/ahmadhaghighi
 #stackoverflow_link: https://www.stackoverflow.com/users/2174408/mrrolling
